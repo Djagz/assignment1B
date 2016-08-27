@@ -11,7 +11,8 @@ public class Circle {
 	public static void main(String args[]){
 		
 		Circle myCircle = new Circle(2.5);
-		System.out.println("The area of my circle is: " + myCircle);
+		System.out.println("Welcome to my circle")
+		System.out.println(myCircle);
 		
 }
 }
