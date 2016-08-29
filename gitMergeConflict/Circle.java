@@ -11,6 +11,7 @@ public class Circle {
 	public static void main(String args[]){
 		
 		Circle myCircle = new Circle(2.5);
+                System.out.println("This is my circle");
 		System.out.println(myCircle);
 		
 }
