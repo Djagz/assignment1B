@@ -15,6 +15,7 @@ public class Circle {
 		System.out.println("Welcome to my circle")
 		System.out.println(myCircle);
                 System.out.println("The end");
+                System.out.println("Time is 11:02");
 
 		
 }
