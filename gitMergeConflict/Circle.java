@@ -13,7 +13,6 @@ public class Circle {
 		Circle myCircle = new Circle(2.5);
                 System.out.println("This is my circle");
 		System.out.println("Welcome to my circle")
-		System.out.println("My name is Dipesh Jagwani")
 		System.out.println(myCircle);
 		
 }
