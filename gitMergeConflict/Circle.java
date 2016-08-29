@@ -11,11 +11,9 @@ public class Circle {
 	public static void main(String args[]){
 		
 		Circle myCircle = new Circle(2.5);
-<<<<<<< HEAD
                 System.out.println("This is my circle");
-=======
 		System.out.println("Welcome to my circle")
->>>>>>> 42e901a27b6b1716dbdc1224713172f61cfb122a
+		System.out.println("My name is Dipesh Jagwani")
 		System.out.println(myCircle);
 		
 }
